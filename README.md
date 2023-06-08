@@ -14,6 +14,7 @@ Add elements to database:
 Search Button Functionality :
 
 The search button allows users to search for a specific word in the database.
+
 When the user enters a word in the search field and clicks the search button, the application will retrieve the meaning, antonyms, and synonyms associated with that word from the database.
 If the word exists in the database, the application will display its details.
 However, if the word is not found in the database, a message will appear indicating that the word does not exist.
@@ -24,6 +25,7 @@ However, if the word is not found in the database, a message will appear indicat
 Reset Button Functionality:
 
 The reset button provides users with the option to clear all the fields in the application.
+
 When the reset button is clicked, all the text fields for word, meaning, antonyms, and synonyms will be set to null, effectively clearing any previously entered data.
 This allows users to start fresh and enter new word entries without any pre-existing values.
 
