@@ -12,12 +12,14 @@ Add elements to database:
 ![image](https://github.com/Muskan-Thakur/VocabExplorer/assets/106293646/c7107876-e689-46d5-b8c9-c29bd9e9fd61)
 
 Search Button Functionality :
+
 The search button allows users to search for a specific word in the database.
 When the user enters a word in the search field and clicks the search button, the application will retrieve the meaning, antonyms, and synonyms associated with that word from the database.
 If the word exists in the database, the application will display its details.
 However, if the word is not found in the database, a message will appear indicating that the word does not exist.
 
 ![image](https://github.com/Muskan-Thakur/VocabExplorer/assets/106293646/b43a6740-a5f5-4fd4-9dfc-01a62474edd9)
+
 
 Reset Button Functionality:
 
